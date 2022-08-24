@@ -1,0 +1,222 @@
+{
+  "Header": {
+    "title": "Chip-locked",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Hi! My name's Jase, I'm the creator of Chip-locked. I've been playing disc golf for many years now. I think it's one of the best ways to spend and afternoon with friends and family, and this game was made to throw more fun into those times. My brother and I have always enjoyed competing and recently he's taken a leap forward in his disc golf skill where I have stayed the same. When we'd play a round together it would mostly be us playing to beat our personal best rather than competing. That's why I created Chip-locked, to bring back that competitive spirit! We found as we tested my game that we were having more fun right away, each shot had more excitement, there always was a chance for the lead to change on each hole. We also liked that playing didn't get in the way of a normal round, we played Chip-locked along side a round of disc golf, the exchanging of chips between the holes was quick and satisfying when you take a good chip from your opponent or give your bad chip to them!",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "chips": [
+    {
+      "fa": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "rules": [
+    {
+      "img": "img/rules/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/rules/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/rules/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/rules/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/rules/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/rules/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "shop": [
+    {
+      "url": "./img/Chip-locked-images/treeshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Tree Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/tree-chip1/"
+    },
+    {
+      "url": "./img/Chip-locked-images/bogeyshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Bogey Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/bogey-chip/"
+    },
+    {
+      "url": "./img/Chip-locked-images/birdieshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Birdie Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/birdie-chip/"
+    },
+    {
+      "url": "./img/Chip-locked-images/throwinshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Throw In Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/throw-in-chip/"
+    }
+    ,
+    {
+      "url": "./img/Chip-locked-images/puredshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Pured Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/pured-chip/"
+    },
+    {
+      "url": "./img/Chip-locked-images/rescuerangershirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Rescue Ranger Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/rescue-ranger-chip/"
+    },
+    {
+      "url": "./img/Chip-locked-images/dethronedshirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Dethroned Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/dethroned-chip/"
+    },
+    {
+      "url": "./img/Chip-locked-images/bigputtershirt.jpg",
+      "title": "Available in 4 styles",
+      "description": "Big Putter Chip",
+      "text": "$23.99",
+      "link": "https://www.bonfire.com/big-putter-chip/"
+    }
+    
+  ]
+}
