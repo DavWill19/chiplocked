@@ -38,7 +38,8 @@ export const Chips = (props) => {
                 </Fade>
               </div>
             </div>
-            <div className=' border p-3'>
+            <div id="chiplogo" />
+            <div className='border p-3'>
               <div className='row'>
                 <div className='col-xs-12 col-sm-6 col-sm-offset-3 col-md-6 col-lg-6'>
                   <Fade>
@@ -50,7 +51,7 @@ export const Chips = (props) => {
               </div>
               <div className='row justify-content-around'>
                 <div className='col-xs-6 sideBorder'>
-                  <h3 className='chipFont'><img className="chipIconGood" src='./img/Chip-locked-images/halo.png' alt='chipIcon' />GOOD CHIPS</h3>
+                  <h3 className='chipFont'>THE GOOD CHIPS</h3>
                   <hr/>
                   <div className=''>
                     <div className='row justify-content-around'>
@@ -170,7 +171,7 @@ export const Chips = (props) => {
                   </div>
                 </div>
                 <div className='col-xs-6'>
-                  <h3 className='chipFont'><img className="chipIcon" src='./img/Chip-locked-images/devil.png' alt='chipIcon' />BAD CHIPS</h3>
+                  <h3 className='chipFont'>THE BAD CHIPS</h3>
                   <hr />
                   <div>
                     <div className='row'>

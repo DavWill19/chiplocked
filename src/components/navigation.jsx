@@ -59,7 +59,7 @@ window.addEventListener('resize', checkForWindowResize);
         >
           <ul className='nav navbar-nav navbar-right' data-toggle={toggle} data-target={data}>
             <li className="nav-item">
-              <a href='#chips' className='page-scroll anchor'>
+              <a href='#chiplogo' className='page-scroll anchor'>
                 Chips
               </a>
             </li>
