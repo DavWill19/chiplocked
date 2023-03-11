@@ -1,3 +1,3 @@
 # React Disc Golf site
 
-https://chiplocked.netlify.app/
+www.chiplocked.com
